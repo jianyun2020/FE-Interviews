@@ -1,0 +1,22 @@
+{
+  "name": "fe-interviews",
+  "version": "1.0.0",
+  "description": "Some Interview questions of Front-End.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianyun2020/FE-Interviews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianyun2020/FE-Interviews/issues"
+  },
+  "homepage": "https://github.com/jianyun2020/FE-Interviews#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
