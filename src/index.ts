@@ -9,4 +9,5 @@
 // import './01-algorithm/04-reverse-link-list'
 // import './01-algorithm/04-queue-with-list'
 // import './01-algorithm/05-binary-search'
-import './01-algorithm/06-two-numbers-sum'
+// import './01-algorithm/06-two-numbers-sum'
+import './01-algorithm/07-binary-search-tree'
