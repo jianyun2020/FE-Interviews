@@ -15,4 +15,5 @@
 // import './01-algorithm/09-move-zero'
 // import './01-algorithm/10-continuous-char'
 // import './01-algorithm/11-quick-sort'
-import './01-algorithm/12-palindrome-number'
+// import './01-algorithm/12-palindrome-number'
+import './01-algorithm/13-thousands-format'
