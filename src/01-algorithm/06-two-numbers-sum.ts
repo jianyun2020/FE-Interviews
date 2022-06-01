@@ -37,7 +37,12 @@ export function findTwoNumbers1(arr: number[], n: number): number[] {
   return res;
 }
 
-
+/**
+ * 查找和为n的两个数（双指针）
+ * @param arr 
+ * @param n 
+ * @returns 
+ */
 export function findTwoNumbers2(arr: number[], n: number) {
   const res: number[] = [];
 
