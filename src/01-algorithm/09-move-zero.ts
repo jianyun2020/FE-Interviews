@@ -57,3 +57,27 @@ export function moveZero2(arr: number[]): void {
 // const arr = [1, 0, 3, 4, 0, 0, 11, 0];
 // moveZero2(arr);
 // console.log(arr); // [1, 3, 4, 11, 0, 0, 0, 0]
+
+// const arr1 = []
+// for (let i = 0; i < 20 * 10000; i++) {
+//     if (i % 10 === 0) {
+//         arr1.push(0)
+//     } else {
+//         arr1.push(i)
+//     }
+// }
+// console.time('moveZero1')
+// moveZero1(arr1)
+// console.timeEnd('moveZero1') // moveZero1: 2302.7470703125 ms
+
+// const arr2 = []
+// for (let i = 0; i < 20 * 10000; i++) {
+//     if (i % 10 === 0) {
+//         arr2.push(0)
+//     } else {
+//         arr2.push(i)
+//     }
+// }
+// console.time('moveZero2')
+// moveZero2(arr2)
+// console.timeEnd('moveZero2') // moveZero2: 2.095947265625 ms
