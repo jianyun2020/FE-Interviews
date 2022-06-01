@@ -11,4 +11,5 @@
 // import './01-algorithm/05-binary-search'
 // import './01-algorithm/06-two-numbers-sum'
 // import './01-algorithm/07-binary-search-tree'
-import './01-algorithm/08-fibonacci'
+// import './01-algorithm/08-fibonacci'
+import './01-algorithm/09-move-zero'
